@@ -2,7 +2,14 @@
   {
     "id": "8ddb9862-413e-4707-847b-fa3717875b83",
     "title": "Issue One",
-    "description": "This is test issue",
+    "description": "This is the updated issue",
+    "priority": "medium",
+    "status": "open"
+  },
+  {
+    "id": "021a398d-b36c-4c55-9c91-5c7e97f7408b",
+    "title": "Issue Two",
+    "description": "This is second issue",
     "priority": "medium",
     "status": "open"
   }
